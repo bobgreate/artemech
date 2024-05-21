@@ -1,2 +1,2 @@
 # artemech
-(hopefully autonomous) Overhead Bar Spinner Combat Robot
+Undercutter 3lb Combat Robot!
