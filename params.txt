@@ -1,1 +1,5 @@
-﻿
+﻿"Plate Screw Hole Diameter" = 0.116in
+"Plate Width" = 5in
+"Plate Thickness" = 0.375in
+"Num holes" = 4
+"Plate Height" = 1.25in
