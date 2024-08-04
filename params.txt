@@ -3,5 +3,5 @@
 "Plate Thickness" = 0.375in
 "Num holes" = 4
 "Plate Height" = 1.25in
-"Top Plate WIdth" = 4.5in
+"Top Plate Width" = 4.5in
 "Plate Clearance Hole Diameter" = 0.125in
