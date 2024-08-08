@@ -5,3 +5,6 @@
 "Plate Height" = 1.25in
 "Top Plate Width" = 4.5in
 "Plate Clearance Hole Diameter" = 0.125in
+"Plate Tap Hole Diameter" = 0.116in
+"Bottom Plate Length" = 6.5in
+"Number Eight Clearance Size" = 0.177in
