@@ -1,5 +1,5 @@
 ﻿﻿"Plate Screw Hole Diameter" = 0.116in
-"Plate Width" = 5in
+"Plate Width" = 4.6in
 "Plate Thickness" = 0.375in
 "Num holes" = 4
 "Plate Height" = 1.25in
@@ -8,3 +8,4 @@
 "Plate Tap Hole Diameter" = 0.116in
 "Bottom Plate Length" = 6.5in
 "Number Eight Clearance Size" = 0.177in
+"Back Brace Height" = 1.1962912in
