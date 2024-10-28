@@ -9,6 +9,6 @@
 "Bottom Plate Length" = 6.5in
 "Number Eight Clearance Size" = 0.177in
 "Back Brace Height" = 1.1962912in
-"Titanium Offset Length" = 4in
+"Titanium Offset Length" = 5in
 "Titanium Head Radius" = 2in
 "Titanium Plate Border Thickness" = 0.5in
