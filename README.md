@@ -1,2 +1,2 @@
 # artemech
-Undercutter 3lb Combat Robot!
+Horizontal Spinner 3lb Combat Robot!
